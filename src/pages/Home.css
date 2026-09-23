@@ -2709,7 +2709,7 @@
 /* FAQ SECTION */
 .faq-section {
   padding: 8rem 0;
-  background-image: url('/src/goog.jpg');
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(245, 247, 255, 0.95));
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
